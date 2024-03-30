@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Letsdrajl
 - 👀 I’m interested in Formula 1 and programming
-- 🌱 I’m currently learning Java programming and I'm studying computer science at Leibniz University Hannover
 - 📫 How to reach me: E-Mail letsdrajl@gmail.com
 
 <!---
